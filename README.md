@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Connect with me:
+
+[<img align = "left" alt = "Linkedln" width src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">]
+
 <!--
 **dgarci23/dgarci23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
