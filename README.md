@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Connect with me: 
-[<img align = "left" alt = "Linkedln" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedln]
+[<img align = "left" alt = "Linkedln" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedln]
 
 <br />
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[linkedln]:https://www.linkedin.com/in/david-garcia-gonzalez/
+[linkedln]: https://www.linkedin.com/in/david-garcia-gonzalez/
