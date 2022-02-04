@@ -15,10 +15,22 @@ Take a look at some of my projects:
 
 **Maybe some Web Development?** The [Movie List](https://github.com/dgarci23/movie-list) project started as I tried to find ideas for my first full-stack web development project. I have always enjoyed movies and I wanted to create a platform where I could keep track of the movies I have watched and the movies I would like to watch in the future. This project is currently running, to see the end product just [click here](https://movie-list-david.herokuapp.com/).
 
+### Tools and Languages
 
+<img align="left" alt="Verilog" width="35px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_verilog.svg" />
+<img align="left" alt="SV" width="35px" src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg?sanitize=true)" />
+<img align="left" alt="KiCad" width="35px" src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" />
+<img align="left" alt="C" width="35px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_c3.svg" />
+<img align="left" alt="C++" width="35px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" />
+<img align="left" alt="Python" width="35px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" />
+<img align="left" alt="JS" width="35px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg" />
+<img align="left" alt="HTML" width="35px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_html.svg" />
+<img align="left" alt="CSS" width="35px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_css.svg" />
+<img align="left" alt="NodeJS" width="35px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_node.svg" />
 
 <!-- ### Connect with me: 
 [<img align = "left" alt = "Linkedln" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedln]
+<img align="left" alt="SV" width="35px" src="" />
 
 <br />
 
