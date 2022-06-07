@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **David Garcia Gonzalez** and I am an Electrical Engineering student at the University of Notre Dame. I am interested in hardware design, computer architecture and programming in general. Here you will find my [hardware](https://github.com/stars/dgarci23/lists/hardware) and [software](https://github.com/stars/dgarci23/lists/hardware) projects.
+My name is **David Garcia Gonzalez** and I am an Electrical Engineering student at the University of Notre Dame. I am interested in hardware design, computer architecture and programming in general. Here you will find my [hardware](https://github.com/stars/dgarci23/lists/hardware) and [software](https://github.com/stars/dgarci23/lists/software) projects.
 
 ### Projects 🏗
 Take a look at some of my projects:
