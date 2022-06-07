@@ -5,15 +5,23 @@ My name is **David Garcia Gonzalez** and I am an Electrical Engineering student 
 ### Projects 🏗
 Take a look at some of my projects:
 
+#### Hardware
+
 **Are you looking for something hands-on?** [8b-Computer](https://github.com/dgarci23/8b-Computer) follows Ben Eater’s 8 bit breadboard computer project in breadboards using TTL logic. It also includes an FPGA implementation written in Verilog with serial communication to write programs to memory.
 
 **What about a bigger computer?** The [risc-v-32](https://github.com/dgarci23/risc-v-32) project is a 32 bit processor following the RISC-V Instruction Set Architecture. A 5 stage pipeline implementation with dynamic branch prediction, this project is still ongoing, right now I am adding the I/O modules for the processor.
 
 **Graphics and 3D engines?** The [3D engine](https://github.com/dgarci23/3d-engine) project follows [OneLoneCoder](https://www.youtube.com/c/javidx9/videos?app=desktop) 3D engine using the NIOS II processor in the DE2-115 FPGA. Double buffering, 3D projections and a VGA controller to experiment around pixel by pixel rendering and 3D graphics.
 
+#### Software
+
 **Interested on my software side?** The [Marketing Report Generator](https://github.com/dgarci23/Report-Generator) project started as a spontaneous thought on how to automate a simple, but time-consuming task, creating reports in Microsoft PowerPoint for clients to see their media presence. Challenges like web scrapping, Gmail integration, and manipulation of docx and pptx documents made this a really interesting project for my Python begginings.
 
 **Maybe some Web Development?** The [Movie List](https://github.com/dgarci23/movie-list) project started as I tried to find ideas for my first full-stack web development project. I have always enjoyed movies and I wanted to create a platform where I could keep track of the movies I have watched and the movies I would like to watch in the future. This project is currently running, to see the end product just [click here](https://movie-list-david.herokuapp.com/).
+
+#### Communication Systems
+
+**Want to learn about Carrier Phase and Frequency Offset?** The [Carrier Phase and Frequency Estimation Project](https://github.com/dgarci23/phase-freq-estimation) was the final project for a senior-level Electrical Engineering elective, Communication Systems. The project covers improvements to the carrier phase offset and frequency offset estimation between transmitter and receivers. It also explores the use of a Zadoff-Chu sequence as a preamble for improved detection. The project was completely developed as a Jupyter notebook and written completely in Python. 
 
 ### Tools and Languages
 
