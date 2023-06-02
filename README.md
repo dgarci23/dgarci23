@@ -7,6 +7,8 @@ Take a look at some of my projects:
 
 #### Hardware
 
+**Tapeout for a 8 bit MIPS processor:** [MIPS 8 bit processor](https://github.com/dgarci23/mips8_vlsi) follows the work on the VLSI Design class at the University of Notre Dame. The semester-long project is a 8 bit MIPS processor using Cadence System tools like Virtuoso and Innovus.
+
 **Are you looking for something hands-on?** [8b-Computer](https://github.com/dgarci23/8b-Computer) follows Ben Eater’s 8 bit breadboard computer project in breadboards using TTL logic. It also includes an FPGA implementation written in Verilog with serial communication to write programs to memory.
 
 **What about a bigger computer?** The [risc-v-32](https://github.com/dgarci23/risc-v-32) project is a 32 bit processor following the RISC-V Instruction Set Architecture. A 5 stage pipeline implementation with dynamic branch prediction, this project is still ongoing, right now I am adding the I/O modules for the processor.
